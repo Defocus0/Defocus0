@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!--                          SYSTEM INITIALIZATION                          -->
+<!--                         SYSTEM INITIALIZATION                           -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -28,10 +28,11 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                       ║
+║                    DEVELOPER PROFILE                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  NAME        :: Gabriel Santos                              ║
-║  ROLE        :: Java Developer in Progress                 ║
+║  USERNAME    :: Defocus0                                    ║
+║  ROLE        :: Software Developer in Progress              ║
 ║  STATUS      :: Learning / Building / Improving             ║
 ║  PRIMARY     :: Java                                        ║
 ║  FRONTEND    :: JavaScript + CSS                            ║
@@ -51,7 +52,7 @@ Olá! Eu sou **Gabriel**, desenvolvedor em formação com foco principalmente no
 
 Atualmente estou construindo minha base através de projetos práticos, estudando lógica de programação, orientação a objetos, estruturas de dados e desenvolvimento web.
 
-Também trabalho com:
+### `CURRENT KNOWLEDGE`
 
 * ☕ **Java**
 * ⚡ **JavaScript**
@@ -59,10 +60,10 @@ Também trabalho com:
 * 🌐 **HTML**
 * 🧠 Lógica de programação
 * 🗃️ Estruturas de dados
-* 🛠️ Desenvolvimento de projetos práticos
+* 🛠️ Desenvolvimento de projetos
 * 🔧 Git & GitHub
 
-Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo continuamente como desenvolvedor.
+Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo continuamente como desenvolvedor e, futuramente, atuar profissionalmente com **engenharia de software**.
 
 <br clear="right"/>
 
@@ -101,95 +102,46 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo contin
 
 ---
 
-# `04 // PROJETOS`
+# `04 // PROJECT DATABASE`
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧃 JC — Polpas & Sucos
-
-Projeto web desenvolvido para uma empresa de polpas e sucos naturais.
-
-**Features**
-
-* 🛒 Carrinho de compras
-* 📱 Design responsivo
-* 📦 Organização por categorias
-* 💻 HTML + CSS + JavaScript
-* 🎨 Interface personalizada
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗺️ Arcadia
-
-Projeto de universo fantástico apresentado através de uma interface web.
-
-**Features**
-
-* 🏰 Reinos
-* 📜 Lore
-* ⚔️ Elementos de RPG
-* 🌐 Interface temática
-* 🎨 Design personalizado
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00f7ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ☕ Java Console Systems
-
-Projetos desenvolvidos durante meus estudos de Java.
-
-**Concepts**
-
-* Variables
-* Conditionals
-* Loops
-* Arrays
-* ArrayList
-* Scanner
-* Switch
-* Methods
-* OOP
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Future Projects
-
-Novos projetos estão sendo desenvolvidos.
-
 ```text
-[████████████░░░░░░░░] 60%
-
-STATUS :: DEVELOPMENT
+╔══════════════════════════════════════════════════════════════╗
+║                    PROJECT DATABASE                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  STATUS :: WAITING FOR NEW PROJECTS                          ║
+║                                                              ║
+║  ┌────────────────────────────────────────────────────────┐  ║
+║  │                                                        │  ║
+║  │                 PROJECT SLOT #01                       │  ║
+║  │                 [ AVAILABLE ]                          │  ║
+║  │                                                        │  ║
+║  └────────────────────────────────────────────────────────┘  ║
+║                                                              ║
+║  ┌────────────────────────────────────────────────────────┐  ║
+║  │                                                        │  ║
+║  │                 PROJECT SLOT #02                       │  ║
+║  │                 [ AVAILABLE ]                          │  ║
+║  │                                                        │  ║
+║  └────────────────────────────────────────────────────────┘  ║
+║                                                              ║
+║  ┌────────────────────────────────────────────────────────┐  ║
+║  │                                                        │  ║
+║  │                 PROJECT SLOT #03                       │  ║
+║  │                 [ AVAILABLE ]                          │  ║
+║  │                                                        │  ║
+║  └────────────────────────────────────────────────────────┘  ║
+║                                                              ║
+║  DATABASE :: READY                                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-
-</tr>
-</table>
-
 </div>
+
+> **Future projects will be added here.**
 
 ---
 
@@ -198,7 +150,7 @@ STATUS :: DEVELOPMENT
 <div align="center">
 
 ```text
-┌──[ GABRIEL@DEVELOPER ]──[ ~/projects ]─────────────────────┐
+┌──[ DEFOCUS0@DEVELOPER ]──[ ~/projects ]─────────────────────┐
 
 $ ./current_objectives.sh
 
@@ -232,9 +184,9 @@ SYSTEM_STATE :: LEARNING
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Defocus0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00f7ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defocus0&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00f7ff&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
@@ -244,17 +196,17 @@ SYSTEM_STATE :: LEARNING
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Defocus0&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# `08 // STREAK`
+# `08 // STREAK PROTOCOL`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=Defocus0&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -264,7 +216,7 @@ SYSTEM_STATE :: LEARNING
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Defocus0&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
@@ -274,7 +226,7 @@ SYSTEM_STATE :: LEARNING
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Defocus0/Defocus0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
@@ -288,11 +240,7 @@ SYSTEM_STATE :: LEARNING
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff"/>
-</a>
-
-<a href="https://instagram.com/Shttps://www.instagram.com/iamgabriell12/">
+<a href="https://www.instagram.com/iamgabriell12/">
 <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00f7ff"/>
 </a>
 
@@ -314,6 +262,7 @@ SYSTEM_STATE :: LEARNING
 │  JAVASCRIPT ........... LOADED                             │
 │  CSS .................. LOADED                             │
 │  GIT .................. CONNECTED                          │
+│  GITHUB ............... CONNECTED                          │
 │  LEARNING ............. ACTIVE                             │
 │  CURIOSITY ............ UNLIMITED                          │
 │                                                            │
@@ -332,9 +281,9 @@ SYSTEM_STATE :: LEARNING
 
 ### `SYSTEM ONLINE // KEEP BUILDING`
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Defocus0&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS"/>
 
-<br>
+<br><br>
 
 <sub>Designed & built with ☕ Java, ⚡ JavaScript and 🎨 CSS</sub>
 
